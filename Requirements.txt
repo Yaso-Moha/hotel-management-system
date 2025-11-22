@@ -1,0 +1,5 @@
+- A C++ compiler (g++, MinGW, Visual Studio, etc.)
+
+- MySQL or any SQL database
+
+- A text editor or IDE (I used VS code )
